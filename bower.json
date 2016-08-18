@@ -1,0 +1,17 @@
+{
+  "name": "angular-server-status",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Qiong Wu <qiong.wu@gfnork.de>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/gfnork/angular-server-status",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
